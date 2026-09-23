@@ -32,6 +32,7 @@ One ZIP per lab, each containing a single self-contained `index.html` at the arc
 | `workbench_install_lab_03.zip` | Workbench Install Lab 3: Containers (Optional) | 370 |
 | `connect_install_lab_01.zip` | Connect Install Lab 1: Install & HTTPS | 450 |
 | `connect_install_lab_02.zip` | Connect Install Lab 2: Auth, Publishing & OAuth | 460 |
+| `connect_install_lab_03.zip` | Connect Install Lab 3: Metrics & OpenTelemetry | 470 |
 | `package_manager_install_lab_01.zip` | Package Manager Install Lab: Install & Configure | 560 |
 | `chronicle_install_lab_01.zip` | Chronicle Install Lab: Install & Configure | 630 |
 
