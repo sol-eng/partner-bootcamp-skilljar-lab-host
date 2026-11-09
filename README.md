@@ -30,10 +30,19 @@ One ZIP per lab, each containing a single self-contained `index.html` at the arc
 | `workbench_install_lab_01.zip` | Workbench Install Lab 1: Base Installation | 350 |
 | `workbench_install_lab_02.zip` | Workbench Install Lab 2: SSL, OIDC & Provisioning | 360 |
 | `workbench_install_lab_03.zip` | Workbench Install Lab 3: Containers (Optional) | 370 |
+| `workbench_admin_messages.zip` | Workbench Install Lab 4: Admin API Homepage Messages (Optional) (Experimental) | 380 |
+| `workbench_session_env.zip` | Workbench Install Lab 5: Session Environment Variables & Encrypted Secrets (Optional) (Experimental) | 390 |
+| `workbench_positron_enforced_settings.zip` | Workbench Install Lab 6: Enforcing Positron Pro Settings (Optional) (Experimental) | 395 |
 | `connect_install_lab_01.zip` | Connect Install Lab 1: Install & HTTPS | 450 |
 | `connect_install_lab_02.zip` | Connect Install Lab 2: Auth, Publishing & OAuth | 460 |
 | `connect_install_lab_03.zip` | Connect Install Lab 3: Metrics & OpenTelemetry | 470 |
+| `connect_nodejs.zip` | Connect Install Lab 4: Node.js Content (Optional) (Experimental) | 480 |
+| `connect_api_key_lifecycle.zip` | Connect Install Lab 5: Service Tokens for Integrations (Optional) (Experimental) | 484 |
+| `connect_publisher_roles.zip` | Connect Install Lab 6: Letting Publishers Create Groups (Optional) (Experimental) | 488 |
 | `package_manager_install_lab_01.zip` | Package Manager Install Lab: Install & Configure | 560 |
+| `package_manager_install_lab_02.zip` | Package Manager Install Lab 2: Hosting AI Agent Plugins (Optional) (Experimental) | 570 |
+| `connect_python_package_governance.zip` | Cross-Product Lab 1: Python Package Governance (Optional) (Experimental) | 584 |
+| `connect_package_manager_integration.zip` | Cross-Product Lab 2: Package Manager Integration for Authenticated Repositories (Optional) (Experimental) | 588 |
 | `chronicle_install_lab_01.zip` | Chronicle Install Lab: Install & Configure | 630 |
 
 ## Security
